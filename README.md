@@ -1,6 +1,8 @@
 # MsgToWeb_WebApp_Server
 web app with express server to receive and show message sent from mobile aplication
 
+[![Site preview](/public/webview.png)]
+
 
 > The goal of this application is to 
 > show __Sim based SMS__ to show up in 
