@@ -1,7 +1,7 @@
 # MsgToWeb_WebApp_Server
 web app with express server to receive and show message sent from mobile aplication
 
-[![Site preview](/public/webview.png)]
+[![Site preview](/public/webview.png)
 
 
 > The goal of this application is to 
