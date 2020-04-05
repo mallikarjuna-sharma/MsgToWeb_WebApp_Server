@@ -61,10 +61,10 @@ https://github.com/mallikarjuna-sharma/MsgToWeb_MobileApp/raw/master/app/build/o
       <br />
     </td>
     <td align="center">
-      <a href="hhttps://www.instagram.com/ts_achu/">
-        <img src="" width="100px" alt="" />
+      <a href="https://www.instagram.com/ts_achu/">
+        <img src="https://banner2.cleanpng.com/20180920/yko/kisspng-computer-icons-portable-network-graphics-avatar-ic-5ba3c66df14d32.3051789815374598219884.jpg" width="100px" alt="" />
         <br />
-        <sub><b>Achu dan</b></sub>
+        <sub><b>Achu_ts</b></sub>
       </a>
       <br />
     </td>
