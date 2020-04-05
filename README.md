@@ -10,14 +10,14 @@ web app with express server to receive and show message sent from mobile aplicat
 > with server to show SMS received in mobile
 
 
-### Tech
+### Tech 🚀
 
 * [React.js] - HTML enhanced for web apps!
 * [node.js] - evented I/O for the backend
 * [Express] - fast node.js network app framework
 
 
-### Installation
+### Installation 🔗
 
 MsgToWeb_WebApp_Server requires [Node.js](https://nodejs.org/) v6+ to run.
 
@@ -35,7 +35,7 @@ $ node server
 $ npm start
 ```
 
-### Contributing
+### Contributing 🙌
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -48,6 +48,33 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ### Mobile app
 
 https://github.com/mallikarjuna-sharma/MsgToWeb_MobileApp/raw/master/app/build/outputs/apk/debug/MsgToWeb.apk
+
+## Contributors ✨
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/rmalliksharma96/">
+        <img src="https://instagram.fmaa2-2.fna.fbcdn.net/v/t51.2885-19/s150x150/16585653_614441548749035_750547953042587648_a.jpg?_nc_ht=instagram.fmaa2-2.fna.fbcdn.net&_nc_ohc=XsxHJ-GipCMAX-ERkfm&oh=0cee67d1a727952e08a31a96e0b401c6&oe=5EB20A83" width="100px" alt="" />
+        <br />
+        <sub><b>Mallikarjuna Sharma</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="hhttps://www.instagram.com/ts_achu/">
+        <img src="" width="100px" alt="" />
+        <br />
+        <sub><b>Achu dan</b></sub>
+      </a>
+      <br />
+    </td>
+  </tr>
+</table>
+
+## Sharing 💗
+
+Project is open source. Feel free to make your own version. All you need to do is to fork this repository, edit [src/MsgToWeb.jsx] and server.js . Mark star ⭐ if you like the project.
+
 
 
 
