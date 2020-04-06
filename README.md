@@ -33,8 +33,9 @@ That's it , receive any Mobile SmS and see it in your Web app
 ```sh
 $ cd MsgToWeb_WebApp_Server
 $ npm install 
-$ node server
 $ npm start
+$ cd MsgToWeb_WebApp_Server/server in another terminal
+$ node server
 ```
 
 ### Contributing 🙌
