@@ -30,13 +30,22 @@ Allow permission to read/write sms
 Connect your pc/laptop and Mobile with same network
 That's it , receive any Mobile SmS and see it in your Web app
 
+#### Start React App
 ```sh
 $ cd MsgToWeb_WebApp_Server
 $ npm install 
 $ npm start
-$ cd MsgToWeb_WebApp_Server/server in another terminal
+```
+
+#### Start Express server
+
+After installing node modules and starting React app at port 3000.
+open another terminal
+```sh
+$ cd MsgToWeb_WebApp_Server/server 
 $ node server
 ```
+
 
 ### Contributing 🙌
 
